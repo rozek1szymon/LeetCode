@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\bin\Debug\DeleteColumnsToMakeSorted.exe.config
+C:\Users\HP\Desktop\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\bin\Debug\DeleteColumnsToMakeSorted.exe
+C:\Users\HP\Desktop\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\bin\Debug\DeleteColumnsToMakeSorted.pdb
+C:\Users\HP\Desktop\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\obj\Debug\DeleteColumnsToMakeSorted.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\obj\Debug\DeleteColumnsToMakeSorted.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\obj\Debug\DeleteColumnsToMakeSorted.exe
+C:\Users\HP\Desktop\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\obj\Debug\DeleteColumnsToMakeSorted.pdb
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\bin\Debug\DeleteColumnsToMakeSorted.exe.config
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\bin\Debug\DeleteColumnsToMakeSorted.exe
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\bin\Debug\DeleteColumnsToMakeSorted.pdb
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\obj\Debug\DeleteColumnsToMakeSorted.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\obj\Debug\DeleteColumnsToMakeSorted.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\obj\Debug\DeleteColumnsToMakeSorted.exe
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted\obj\Debug\DeleteColumnsToMakeSorted.pdb

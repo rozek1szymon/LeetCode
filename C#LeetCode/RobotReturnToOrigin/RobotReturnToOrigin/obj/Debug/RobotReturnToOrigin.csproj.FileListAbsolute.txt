@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\C#LeetCode\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\RobotReturnToOrigin.exe.config
+C:\Users\HP\Desktop\C#LeetCode\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\RobotReturnToOrigin.exe
+C:\Users\HP\Desktop\C#LeetCode\RobotReturnToOrigin\RobotReturnToOrigin\bin\Debug\RobotReturnToOrigin.pdb
+C:\Users\HP\Desktop\C#LeetCode\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\RobotReturnToOrigin.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#LeetCode\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\RobotReturnToOrigin.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#LeetCode\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\RobotReturnToOrigin.exe
+C:\Users\HP\Desktop\C#LeetCode\RobotReturnToOrigin\RobotReturnToOrigin\obj\Debug\RobotReturnToOrigin.pdb

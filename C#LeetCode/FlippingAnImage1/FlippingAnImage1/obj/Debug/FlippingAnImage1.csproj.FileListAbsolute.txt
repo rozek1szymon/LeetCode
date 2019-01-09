@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\C#LeetCode\FlippingAnImage1\FlippingAnImage1\bin\Debug\FlippingAnImage1.exe.config
+C:\Users\HP\Desktop\C#LeetCode\FlippingAnImage1\FlippingAnImage1\bin\Debug\FlippingAnImage1.exe
+C:\Users\HP\Desktop\C#LeetCode\FlippingAnImage1\FlippingAnImage1\bin\Debug\FlippingAnImage1.pdb
+C:\Users\HP\Desktop\C#LeetCode\FlippingAnImage1\FlippingAnImage1\obj\Debug\FlippingAnImage1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#LeetCode\FlippingAnImage1\FlippingAnImage1\obj\Debug\FlippingAnImage1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#LeetCode\FlippingAnImage1\FlippingAnImage1\obj\Debug\FlippingAnImage1.exe
+C:\Users\HP\Desktop\C#LeetCode\FlippingAnImage1\FlippingAnImage1\obj\Debug\FlippingAnImage1.pdb

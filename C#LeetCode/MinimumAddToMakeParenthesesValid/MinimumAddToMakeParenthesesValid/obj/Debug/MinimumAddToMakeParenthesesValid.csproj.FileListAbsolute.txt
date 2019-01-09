@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\MinimumAddToMakeParenthesesValid\MinimumAddToMakeParenthesesValid\bin\Debug\MinimumAddToMakeParenthesesValid.exe.config
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\MinimumAddToMakeParenthesesValid\MinimumAddToMakeParenthesesValid\bin\Debug\MinimumAddToMakeParenthesesValid.exe
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\MinimumAddToMakeParenthesesValid\MinimumAddToMakeParenthesesValid\bin\Debug\MinimumAddToMakeParenthesesValid.pdb
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\MinimumAddToMakeParenthesesValid\MinimumAddToMakeParenthesesValid\obj\Debug\MinimumAddToMakeParenthesesValid.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\MinimumAddToMakeParenthesesValid\MinimumAddToMakeParenthesesValid\obj\Debug\MinimumAddToMakeParenthesesValid.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\MinimumAddToMakeParenthesesValid\MinimumAddToMakeParenthesesValid\obj\Debug\MinimumAddToMakeParenthesesValid.exe
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\MinimumAddToMakeParenthesesValid\MinimumAddToMakeParenthesesValid\obj\Debug\MinimumAddToMakeParenthesesValid.pdb

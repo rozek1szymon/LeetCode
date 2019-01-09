@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\C#LeetCode\FindAndReplacePattern\FindAndReplacePattern\bin\Debug\FindAndReplacePattern.exe.config
+C:\Users\HP\Desktop\C#LeetCode\FindAndReplacePattern\FindAndReplacePattern\bin\Debug\FindAndReplacePattern.exe
+C:\Users\HP\Desktop\C#LeetCode\FindAndReplacePattern\FindAndReplacePattern\bin\Debug\FindAndReplacePattern.pdb
+C:\Users\HP\Desktop\C#LeetCode\FindAndReplacePattern\FindAndReplacePattern\obj\Debug\FindAndReplacePattern.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#LeetCode\FindAndReplacePattern\FindAndReplacePattern\obj\Debug\FindAndReplacePattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#LeetCode\FindAndReplacePattern\FindAndReplacePattern\obj\Debug\FindAndReplacePattern.exe
+C:\Users\HP\Desktop\C#LeetCode\FindAndReplacePattern\FindAndReplacePattern\obj\Debug\FindAndReplacePattern.pdb

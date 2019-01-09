@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\EncodeAndDecodeTinyURL\EncodeAndDecodeTinyURL\obj\Debug\EncodeAndDecodeTinyURL.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\EncodeAndDecodeTinyURL\EncodeAndDecodeTinyURL\obj\Debug\EncodeAndDecodeTinyURL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\EncodeAndDecodeTinyURL\EncodeAndDecodeTinyURL\bin\Debug\EncodeAndDecodeTinyURL.exe.config
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\EncodeAndDecodeTinyURL\EncodeAndDecodeTinyURL\bin\Debug\EncodeAndDecodeTinyURL.exe
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\EncodeAndDecodeTinyURL\EncodeAndDecodeTinyURL\bin\Debug\EncodeAndDecodeTinyURL.pdb
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\EncodeAndDecodeTinyURL\EncodeAndDecodeTinyURL\obj\Debug\EncodeAndDecodeTinyURL.exe
+C:\Users\HP\Desktop\LEETCODE\C#LeetCode\EncodeAndDecodeTinyURL\EncodeAndDecodeTinyURL\obj\Debug\EncodeAndDecodeTinyURL.pdb

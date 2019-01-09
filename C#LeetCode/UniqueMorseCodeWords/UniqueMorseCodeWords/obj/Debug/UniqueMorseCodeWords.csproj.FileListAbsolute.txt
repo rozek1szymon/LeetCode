@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\C#LeetCode\UniqueMorseCodeWords\UniqueMorseCodeWords\bin\Debug\UniqueMorseCodeWords.exe.config
+C:\Users\HP\Desktop\C#LeetCode\UniqueMorseCodeWords\UniqueMorseCodeWords\bin\Debug\UniqueMorseCodeWords.exe
+C:\Users\HP\Desktop\C#LeetCode\UniqueMorseCodeWords\UniqueMorseCodeWords\bin\Debug\UniqueMorseCodeWords.pdb
+C:\Users\HP\Desktop\C#LeetCode\UniqueMorseCodeWords\UniqueMorseCodeWords\obj\Debug\UniqueMorseCodeWords.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#LeetCode\UniqueMorseCodeWords\UniqueMorseCodeWords\obj\Debug\UniqueMorseCodeWords.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#LeetCode\UniqueMorseCodeWords\UniqueMorseCodeWords\obj\Debug\UniqueMorseCodeWords.exe
+C:\Users\HP\Desktop\C#LeetCode\UniqueMorseCodeWords\UniqueMorseCodeWords\obj\Debug\UniqueMorseCodeWords.pdb
