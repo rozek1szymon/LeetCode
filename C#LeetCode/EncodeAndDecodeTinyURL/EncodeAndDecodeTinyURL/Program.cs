@@ -32,6 +32,8 @@ namespace EncodeAndDecodeTinyURL
     {
         static void Main(string[] args)
         {
+            
+
 
             Codec codec = new Codec();
             codec.decode("https://leetcode.com/problems/design-tinyurl");

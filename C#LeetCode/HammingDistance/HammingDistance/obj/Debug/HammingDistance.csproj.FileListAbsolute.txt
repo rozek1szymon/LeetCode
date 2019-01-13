@@ -5,3 +5,10 @@ C:\Users\HP\Desktop\LEETCODE\C#LeetCode\HammingDistance\HammingDistance\obj\Debu
 C:\Users\HP\Desktop\LEETCODE\C#LeetCode\HammingDistance\HammingDistance\obj\Debug\HammingDistance.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\LEETCODE\C#LeetCode\HammingDistance\HammingDistance\obj\Debug\HammingDistance.exe
 C:\Users\HP\Desktop\LEETCODE\C#LeetCode\HammingDistance\HammingDistance\obj\Debug\HammingDistance.pdb
+C:\Users\HP\Desktop\LeetCode Tasks\C#LeetCode\HammingDistance\HammingDistance\bin\Debug\HammingDistance.exe.config
+C:\Users\HP\Desktop\LeetCode Tasks\C#LeetCode\HammingDistance\HammingDistance\bin\Debug\HammingDistance.exe
+C:\Users\HP\Desktop\LeetCode Tasks\C#LeetCode\HammingDistance\HammingDistance\bin\Debug\HammingDistance.pdb
+C:\Users\HP\Desktop\LeetCode Tasks\C#LeetCode\HammingDistance\HammingDistance\obj\Debug\HammingDistance.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\LeetCode Tasks\C#LeetCode\HammingDistance\HammingDistance\obj\Debug\HammingDistance.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LeetCode Tasks\C#LeetCode\HammingDistance\HammingDistance\obj\Debug\HammingDistance.exe
+C:\Users\HP\Desktop\LeetCode Tasks\C#LeetCode\HammingDistance\HammingDistance\obj\Debug\HammingDistance.pdb
