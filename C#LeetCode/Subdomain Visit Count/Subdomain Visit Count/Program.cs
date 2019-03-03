@@ -14,53 +14,66 @@ namespace Subdomain_Visit_Count
     {
         public IList<string> SubdomainVisits(string[] cpdomains)
         {
-           var hashtable = new Hashtable();
+            Dictionary<string, int> hashtable = new Dictionary<string, int>();
             IList<string> lista = new List<string>();
-            string number="0";
+            string number = "0";
 
             var newstring = cpdomains.SelectMany(s =>
             {
-                
-                return s.Split(' ');    
+
+                return s.Split(' ');
 
             }
             ).SelectMany(s =>
             {
-                
+
                 string[] splitDomain = s.Split('.');
-                if(splitDomain.Length==1)
+                if (splitDomain.Length == 1)
                 {
                     number = splitDomain[0];
+                    return Enumerable.Range(0, splitDomain.Length)
+                    .Select(counter =>
+                             number + " " + String.Join(".", splitDomain.Skip(counter))).Skip(1).ToArray();
                 }
 
-                
+
                 return Enumerable.Range(0, splitDomain.Length)
-                    .Select(counter =>
-                             number + " " + String.Join(".", splitDomain.Skip(counter))).ToArray();
-                    
-                //return splitDomain
-                
-            }).ToArray();
+                   .Select(counter =>
+                            number + " " + String.Join(".", splitDomain.Skip(counter))).ToArray();
 
 
 
+            });
 
 
 
-
-            //var result2 = result.Aggregate();
 
             foreach (var item in newstring)
             {
-                Console.WriteLine(item);
+                var item2 = item.Split(' ');
+                int number2 = Int32.Parse(item2[0]);
+                if (hashtable.Keys.Contains(item2[1]))
+                {
+                  
+                    hashtable[item2[1]] += number2;
+                }
+                else
+                {
+                    hashtable.Add(item2[1], number2);
+                }
+
             }
+
+                foreach (var item4 in hashtable)
+                {
+                 lista.Add(item4.Value + " " + item4.Key);
+                 
+                }
+
+         
             return lista;
 
         }
-
-
-            
-            
 
         
     }
