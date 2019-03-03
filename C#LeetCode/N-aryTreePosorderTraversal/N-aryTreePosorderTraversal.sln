@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-aryTreePosorderTraversal", "N-aryTreePosorderTraversal\N-aryTreePosorderTraversal.csproj", "{00C5EF02-804C-469E-9363-CA832D3E4B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C5EF02-804C-469E-9363-CA832D3E4B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C5EF02-804C-469E-9363-CA832D3E4B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C5EF02-804C-469E-9363-CA832D3E4B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C5EF02-804C-469E-9363-CA832D3E4B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {461A65E7-885A-445F-ABD2-187A4461CAB6}
+	EndGlobalSection
+EndGlobal
